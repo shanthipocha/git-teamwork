@@ -1,0 +1,1 @@
+Verify deployment health checks before increasing replica count.
